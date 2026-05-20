@@ -65,7 +65,7 @@ The dataset contains HR employee records including:
 
 ## Dashboard Preview
 
-![HR Dashboard](HR_Attrition_Dashboard.twb)
+![HR Dashboard](HR_Attrition_Dashboard.png)
 
 
 ---
